@@ -1,0 +1,50 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Prism&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    text-align: center;
+}
+body{
+    background: url("https://wallpapers.com/images/featured/minimalist-7xpryajznty61ra3.jpg");
+    color: white;
+}
+h1{
+    font-family: 'Tilt Prism', cursive;
+    color: #9e1818;
+    font-size: 70px;
+    font-weight: 900;
+}
+h3{
+    position: absolute;
+    left: 620px;
+    top: 85px;
+    font-family: 'Luckiest Guy', cursive;
+    color: black;
+    width: 163px;
+    height: 24px;
+}
+h4{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+.block{
+    text-align: center;
+   
+}
+canvas{
+    display: block;
+    background-color: #F6E9E9;
+    margin: 80px;
+}
+input{
+    margin: 20px 0px 0px 20px;
+}
